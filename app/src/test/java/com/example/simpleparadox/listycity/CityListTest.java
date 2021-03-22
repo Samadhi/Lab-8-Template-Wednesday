@@ -96,6 +96,6 @@ class CityListTest {
 
     @Test
     void testAddition(){
-        sum = 2;
+        int sum = 2;
     }
 }
